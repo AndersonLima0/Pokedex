@@ -5,6 +5,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <div align-items="center">
     <img src="src/assets/img1.jpg"/>
 </div>
+<br>
+
+<div align-items="center">
+    <img src="src/assets/img2.jpg"/>
+</div>
+<br>
+
+<div align-items="center">
+    <img src="src/assets/img3.jpg"/>
+</div>
+<br>
 
 ## Development server
 
